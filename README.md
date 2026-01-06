@@ -14,9 +14,8 @@ Desenvolvi este plugin para desacoplar a lógica de integração da camada visua
 
 ![Preview da barra](./screenshot.jpeg)
 
-## 📁 Estrutura do Código
-```php
-// Exemplo da arquitetura modular
-add_action('wp_body_open', 'inst_adicionar_barra');
-add_action('wp_head', 'inst_estilos_barra');
-add_filter('inst_barra_script_url', 'customizar_url_script');
+## ⚠️ Transparência e Portfólio
+- **Propósito:** Demonstração técnica de segurança e gestão de permissões em WordPress.
+- **Refatoração:** Código adaptado para uso seguro e genérico, removendo informações sensíveis.
+- **Propriedade:** Lógica e ativos originais pertencem à instituição.
+- **Restrições:** Proibida comercialização ou redistribuição do código por terceiros.
